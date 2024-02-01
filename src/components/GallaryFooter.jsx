@@ -1,4 +1,4 @@
-export default function(){
+export default function footer(){
   return(
     <footer className='footer-content'>
       <h3>Author: Kalvium</h3>
